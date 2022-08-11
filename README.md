@@ -6,7 +6,7 @@ The 100 days of code challenge 😍
 
 | Day | Project                               | Description                                                                           | Language                      | Status |
 | --- | ------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------- | ------ |
-| 1   | Email Validation Check                | Email Validation Check With Js                                                        | Javascript                    | Not Done ❌|
+| 1   | Email Validation Check                | Email Validation Check With Js                                                        | Javascript                    | Done ✅|
 | 2   | Collective Api's                      | A collective lists of free Api's Using Vanilla JavaScript                             | Javascript, CSS               | Not Done ❌ |
 | 3   | Simple Blog                           | Simple Blog Using Node js, express js & mongodb                                       | Node js, Express js, mongodb  | Not Done ❌ |
 | 4   | Color Palette Generator               | Color Palette Generator App Using React Hooks                                         | React Hooks, Css3             | Not Done ❌ |
